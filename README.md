@@ -5,7 +5,9 @@ These are Landisk HDL2 VolumeUp Scripts
 
 A.ApplicableModel
 HDL2-A2.0
+
 May be
+
 (They use same firm ware)
 HDL2-A2.0, HDL2-A4.0, HDL2-A6.0, HDL2-A4.0/E, HDL2-AH2.0, HDL2-AH4.0,
 HDL2-AH6.0, HDL2-AH2.0W, HDL2-AH4.0W, HDL2-AH6.0W, HDL2-A2.0R, HDL2-A4.0R, 
