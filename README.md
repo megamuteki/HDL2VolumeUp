@@ -1,4 +1,4 @@
-# HDL2VolumeUp
+#LanDisk  HDL2VolumeUp
 ----These Scripts are absolutely No Warannty----
 
 These are Landisk HDL2 VolumeUp Scripts
